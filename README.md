@@ -1,4 +1,4 @@
-# ExerciseCraft
+# Exercise Craft
 
 * Mobile Fitness Application created using XCode
 
